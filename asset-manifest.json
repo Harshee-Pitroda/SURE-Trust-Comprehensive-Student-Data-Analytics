@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SURE-Trust-Comprehensive-Student-Data-Analytics/static/css/main.a519e037.css",
+    "main.js": "/SURE-Trust-Comprehensive-Student-Data-Analytics/static/js/main.5daa790f.js",
+    "static/js/787.1d09a308.chunk.js": "/SURE-Trust-Comprehensive-Student-Data-Analytics/static/js/787.1d09a308.chunk.js",
+    "index.html": "/SURE-Trust-Comprehensive-Student-Data-Analytics/index.html",
+    "main.a519e037.css.map": "/SURE-Trust-Comprehensive-Student-Data-Analytics/static/css/main.a519e037.css.map",
+    "main.5daa790f.js.map": "/SURE-Trust-Comprehensive-Student-Data-Analytics/static/js/main.5daa790f.js.map",
+    "787.1d09a308.chunk.js.map": "/SURE-Trust-Comprehensive-Student-Data-Analytics/static/js/787.1d09a308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a519e037.css",
+    "static/js/main.5daa790f.js"
+  ]
+}
