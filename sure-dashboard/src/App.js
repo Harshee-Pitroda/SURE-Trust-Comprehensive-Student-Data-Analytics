@@ -7,7 +7,7 @@ function App() {
     <div>
     <Header />
     <Iframe />
-    <p style={{ fontSize: '12px', color: '#888', paddingLeft: '23px' }}>
+    <p style={{ fontSize: '12px', color: '#888', paddingLeft: '22px' }}>
       Image source: <a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer">Dribbble</a>
     </p>
     </div>
