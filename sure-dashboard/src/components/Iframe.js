@@ -12,7 +12,7 @@ const Iframe = () => {
     <div>
       <div style={{ overflow: 'hidden', position: 'relative' }}>
         <iframe
-          src="https://lookerstudio.google.com/embed/reporting/53573a53-d981-441b-accf-c89e3510a86b/page/p_fxmq45rg9c"
+          src="https://lookerstudio.google.com/embed/reporting/53573a53-d981-441b-accf-c89e3510a86b/page/p_fxmq45rg9c/page/p_fxmq45rg9c"
           frameBorder="0"
           style={iframeStyle}
           allowFullScreen
