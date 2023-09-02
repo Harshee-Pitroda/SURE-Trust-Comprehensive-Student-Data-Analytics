@@ -84,7 +84,6 @@ const Title = styled.h1`
   padding-left: 30px;
   font-weight: bold;
   letter-spacing: 1px;
-  text-transform: uppercase;
 `;
 
 const Subtitle = styled.h2`
