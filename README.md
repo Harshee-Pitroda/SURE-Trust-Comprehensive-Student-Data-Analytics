@@ -4,7 +4,7 @@ This project aims to organize and analyze SURE Trust's student data using Python
     Domain of the project : Data Science and Data Analytics
 
 #### Mentor
-     1.  [Mr. Sravan Nemana](https://www.linkedin.com/in/nemana/)
+     1.  Mr. Sravan Nemana
      2.  Ms.Harshee Pitroda 
 
 #### Team Members
