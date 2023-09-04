@@ -117,7 +117,10 @@ The data gathering method consisted of retrieving three years' worth of enrollme
 
 #### Outputs
 
-[![Watch the video](/Outputs/previewpage.png)](/Outputs/OutputVideo.mp4)
+
+https://github.com/bhargavesh-dakka/SURE-Trust-Comprehensive-Student-Data-Analytics/assets/95201460/760d80ee-bf8c-41c5-bf31-de5187681475
+
+
 
 
 ![Output](/Outputs/Mobileview%20(1).jpeg) Mobile view
