@@ -4,8 +4,8 @@ This project aims to organize and analyze SURE Trust's student data using Python
     Domain of the project : Data Analytics
 
 #### Mentor
-     1.  Mr.Sravan
-     2.  Ms.Harshee Pitroda 
+1.  [Mr.Sravan](https://www.linkedin.com/in/nemana/)
+2.  [Ms.Harshee Pitroda](https://www.linkedin.com/in/harshee-pitroda/) 
 
 #### Team Members
     1.Mr.Bhargavesh   B.Tech, 4th year pursuing - Team Leader
